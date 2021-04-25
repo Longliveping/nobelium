@@ -2,7 +2,7 @@ const BLOG = {
   title: 'CRAIGARY',
   author: 'Craig Hart',
   email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://www.notion.so/cae267950a6b4a469aa4aa18ed9ae200?v=c1cc9ff968d14e9d8aa6410d2ff2bc50',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
